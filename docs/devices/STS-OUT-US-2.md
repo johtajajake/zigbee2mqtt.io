@@ -17,7 +17,7 @@ description: "Integrate your SmartThings STS-OUT-US-2 via Zigbee2MQTT with whate
 
 ## Notes
 
-None
+Press and hold the button for 5 seconds.
 
 
 ## Exposes
